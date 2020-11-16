@@ -1,0 +1,88 @@
+/* ------------------------------------------------------------------------------
+ *
+ *  # Boot2017 file imports
+ *
+ *  Import all main Bootstrap files. Bootstrap version 3.3.5
+ *
+ *  Version: 1.1
+ *  Latest update: Dic 22, 2017    Orlando Mamani Molina - Martin Nieves Céspedes
+ *
+ * ---------------------------------------------------------------------------- */
+/* ------------------------------------------------------------------------------
+ *
+ *  # Consultoria 2017
+ *
+ *  Common less file with imports of plugins and pages
+ *
+ *  Version: 1.0
+ *  Latest update: Dic 22, 2017     Orlando Mamani Molina - Martin Nieves Céspedes
+ *
+ * ---------------------------------------------------------------------------- */
+/*! normalize.css v3.0.3 | MIT License |  */
+
+.listarr{
+  font-size: small;
+  font-weight: 500;
+}
+
+.listarra{
+  text-align: center;
+  font-weight: 600;
+  font-style: oblique;
+}
+.listarrac{
+  background-color: #ECFAEA;
+}
+
+.reclamor{
+  background-color: #F5A9A9;
+  text-align: center;
+}
+.reclamog{
+   background-color: #94F891;
+    text-align: center;
+}
+.reclamoa{
+   background-color: #F9F269;
+    text-align: center;
+}
+
+.devcolor{
+   background-color:  #FFC300 ;
+   /*#0e1b48;*/     
+}
+.devtabla{
+  background-color: #f9e79f;
+}
+
+
+.forma-control {
+  display: block;
+  width: 40%;
+  height: 36px;
+  padding: 7px 12px;
+  font-size: 13px;
+  line-height: 1.5384616;
+  color: #333333;
+  background-color: #fff;
+  background-image: none;
+  border: 1px solid #ddd;
+  border-radius: 3px;
+  -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+  box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+  -webkit-transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
+  -o-transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
+  transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
+}
+
+.listarr{
+  font-size: small;
+  font-weight: 500;
+
+}
+
+.listarra{
+  text-aling:center;
+  font-weight: 500px;
+  font-style: oblique;
+}
